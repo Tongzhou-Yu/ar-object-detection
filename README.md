@@ -3,10 +3,10 @@ This Unity project shows how to achieve object detection in AR by Niantic's ARDK
 | Category | Subclasses |
 | --- | --- |
 | Aircraft | airplane, helicopter, hot air balloon, parachute, rocket |
-Building features	door, door handle, window
-Car	car, taxi
-Outdoor furniture	barrel, bench, billboard, fire hydrant, flag, parking meter, sculpture, snowman, street light, traffic light, waste container
-Vehicle	vehicle, bicycle, boat, bus, car, cart, motorcycle, taxi, train, truck, wheel, wheelchair
+Building features |	door, door handle, window
+Car	| car, taxi
+Outdoor furniture |	barrel, bench, billboard, fire hydrant, flag, parking meter, sculpture, snowman, street light, traffic light, waste container
+Vehicle |	vehicle, bicycle, boat, bus, car, cart, motorcycle, taxi, train, truck, wheel, wheelchair
 Water feature	fountain, swimming pool
 Accessories	backpack, glasses, handbag, umbrella
 Clothing	coat, dress, shirt, shorts, skirt, sock, suit, tie, trousers
