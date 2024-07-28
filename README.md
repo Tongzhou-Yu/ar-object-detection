@@ -48,7 +48,7 @@ Fish |	fish, goldfish, jellyfish, manta ray, seahorse, shellfish, squid
 Reptile |	reptile, crocodile, turtle
 Seal |	seal, sea lion, walrus
 Sheep |	goat, sheep
-Shellfish	crab, lobster, oyster, shrimp, snail, starfish
-Turtle	turtle, sea turtle, tortoise
-Water bird	duck, goose, swan
-Person	person, human face, human hand,
+Shellfish |	crab, lobster, oyster, shrimp, snail, starfish
+Turtle |	turtle, sea turtle, tortoise
+Water bird |	duck, goose, swan
+Person |	person, human face, human hand,
